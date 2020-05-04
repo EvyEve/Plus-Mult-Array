@@ -7,3 +7,5 @@ Rodd=((A[1]*A[3])+(A[5]*A[7])...)%2
   - If Rodd > Reven then A is ODD
   - If Reven > Rodd then A is EVEN
   - If Rodd = Reven then A is NEUTRAL
+  
+  [![Run on Repl.it](https://repl.it/badge/github/EvyEve/Plus-Mult-Array)](https://repl.it/github/EvyEve/Plus-Mult-Array)
