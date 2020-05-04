@@ -1,0 +1,2 @@
+language="cpp"
+run="clang++ -o main.out main.cpp && ./main.out"
